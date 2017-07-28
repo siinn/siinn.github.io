@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "will it this work?"
 date: 2017-07-26
 ---
