@@ -4,6 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
+  //font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#262626;
   font-weight:400;
@@ -18,20 +19,57 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+ul{
+list-style:none
+}
+
+menu{
+ word-spacing: 20px;
+}
+
+menu a{
+  //color:#267CB9;
+  display: inline;
+  color:#222;
+  //text-decoration:underline;
+  text-decoration:none;
+  //background-color: #dddddd;
+}
+menu:hover, menu a:focus {
+  color:#069;
+  //text-decoration:underline;
+  //color:#ffbf00;
+  font-weight: bold;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
 h1, h2, h3 {
   line-height:1.5;
 }
 
 h1 {
   font-size:35px;
+  font-weight: bold;
 }
 
 h2 {
-  color:#393939;
+  //color:#393939;
+  color:#161616;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  line-height:1.0;
+  //color:#494949;
+  color:#393939;
 }
 
 a {
@@ -59,13 +97,6 @@ a:hover small {
   width:1000px;
   margin:0 auto;
 }
-
-.topbar {
-  width:1000px;
-  margin:0 auto;
-  position:fixed;
-}
-
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -117,27 +148,28 @@ header {
   //float:left;
   top: 0;
   padding-top:40px;
-  padding-bottom:6px;
+  padding-bottom:3px;
   position:fixed;
   background-color: #fff;
   //-webkit-font-smoothing:subpixel-antialiased;
 }
 
 header ul {
-  list-style:none;
-  height:40px;
+  //list-style:none;
+  //height:40px;
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
+  //display: inline;
+  //width:270px;
 }
 
 header li {
-  width:89px;
-  float:left;
+  //width:89px;
+  //float:left;
   border-right:1px solid #e0e0e0;
-  height:40px;
+  //height:40px;
 }
 
 header li:first-child a {
@@ -202,11 +234,12 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:1000px;
   float:left;
   position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
+  bottom:10px;
+  //background-color: #fff;
+  //-webkit-font-smoothing:subpixel-antialiased;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -283,3 +316,5 @@ footer {
     color:#444;
   }
 }
+
+
