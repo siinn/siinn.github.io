@@ -19,14 +19,11 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
 		<h2>{{ site.description | default: site.github.project_tagline }}<h2>
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
         <h3><menu>
 		  <a href="{{ site.url }}/blog">Blog</a>
 		  <a href="{{ site.url }}/projects">Projects</a>
 		  <a href="{{ site.url }}">Write</a>
-		  <a href="{{ site.url }}/About">About</a>
+		  <a href="{{ site.url }}/about">About</a>
 		</menu></h3>
 		<hr/>
       </header>
