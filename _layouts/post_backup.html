@@ -16,19 +16,19 @@
   <body>
     <div class="wrapper">
       <header ul>
-        <a href="{{ site.url }}">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
 		<h2>{{ site.description | default: site.github.project_tagline }}<h2>
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
-        <menu>
+        <h3><menu>
 		  <a href="{{ site.url }}/blog">Blog</a>
 		  <a href="{{ site.url }}/projects">Projects</a>
 		  <a href="{{ site.url }}">Write</a>
 		  <a href="{{ site.url }}/about">About</a>
-		</menu>
+		</menu></h3>
 		<hr/>
       </header>
       <section>
+        <h2>{{ page.title }}</h2>
         {{ content }}
       </section>
     </div>

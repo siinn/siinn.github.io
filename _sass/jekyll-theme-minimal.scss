@@ -25,21 +25,27 @@ list-style:none
 
 menu{
  word-spacing: 20px;
+ font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-weight: bold;
 }
 
 menu a{
   //color:#267CB9;
+  //color:#222;
+  color:#565656;  // light gray
+  //color:#a00000;
   display: inline;
-  color:#222;
-  //text-decoration:underline;
   text-decoration:none;
   //background-color: #dddddd;
+  //text-decoration:underline;
 }
-menu:hover, menu a:focus {
-  color:#069;
+menu a:hover, menu a:focus {
+  //color:#069;
+  //color:#5e0000;
+  color:#222;	// dark gray
+  font-weight: bold;
   //text-decoration:underline;
   //color:#ffbf00;
-  font-weight: bold;
 }
 
 hr {
@@ -218,7 +224,7 @@ header ul a strong {
 section {
   width:900px;
   float:right;
-  margin-top:200px;
+  margin-top:150px;
   padding-bottom:50px;
 }
 
@@ -238,6 +244,18 @@ footer {
   float:left;
   position:fixed;
   bottom:10px;
+  //background-color: #fff;
+  //-webkit-font-smoothing:subpixel-antialiased;
+}
+
+sidebar {
+  width:300px;
+  //float:left;
+  //top: 600;
+  padding-top:40px;
+  padding-bottom:3px;
+  float:left;
+  position:fixed;
   //background-color: #fff;
   //-webkit-font-smoothing:subpixel-antialiased;
 }
