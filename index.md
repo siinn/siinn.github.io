@@ -3,7 +3,7 @@ layout: main_full
 ---
 ### Siinn Che
 <br>
-<img src="/images/siinn.jpg" width="200" align="left" hspace="20"> I am a Ph.D. student studying experimental particle physcis.IIIIIIIII am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle  am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle physcis. am a Ph.D. student studying experimental particle physcis.
+<img src="/images/siinn.jpg" width="200" align="left" hspace="20"> I am a Ph.D. student studying experimental particle physcis.
 <br>
 <br>
 <br>
