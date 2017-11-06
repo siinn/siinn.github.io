@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pandas: Drawing secondary y axis with MultiIndex columns"
+title: "Pandas: drawing secondary y axis with MultiIndex columns"
 date: 2017-08-07
 categories: python
 ---
@@ -59,9 +59,9 @@ If you want to make a plot with "top" columns as main y varialble and "bottom" c
 
 >>> plt.show()
 ```
-![Example:secondary_y not drawn](/images/posts/secondary_y_1.png)
+<div align="center"><img src="/images/posts/secondary_y_1.png"></div>
 
-Here, we set `use_index=True` so that the index is taken as x, and we are drawing "top" as y. The option `ax=ax1` specify on which Axes we want to make plot. It seems that this is all we need to draw two sets of columns on different y axes. However, as you can see, the secondary y axis is not drawn. The workaround that I found is the following. First, draw the columns that you want to plot on the main (left) y axis.
+We set `use_index=True` so that the index is taken as x, and we are drawing "top" as y. The option `ax=ax1` specify on which Axes we want to make plot. It seems that this is all we need to draw two sets of columns on different y axes. However, as you can see, the secondary y axis is not drawn. The workaround that I found is the following. First, draw the columns that you want to plot on the main (left) y axis.
 
 ```python
 >>> df.plot(use_index=True,y="top", ax=ax1)
@@ -73,7 +73,7 @@ Then we draw the second set of columns as y variable but with `secondary_y` set 
 >>> df.plot(use_index=True,y="bottom", secondary_y=True, ax=ax1)
 ```
 
-![Example:secondary_y drawn](/images/posts/secondary_y_2.png)
+<div align="center"><img src="/images/posts/secondary_y_2.png"></div>
 
 You will see that in this way, we can obtain the desired plot with "bottom" columns properly drawn on the secondary y axis. 
 
@@ -96,10 +96,12 @@ Here, you can set the label on the primary y axis using `set_ylabel`. If you don
 >>>     ax1.right_ax.set_ylim([-3,2])
 >>>     ax1.right_ax.legend(loc='upper right')
 ```
-Here, we set the label and the limits on the secondary y axis. In case you are generating multiple plots, you would want to check if `right_ax` is available before setting the label or the limits. This is possible if a plot has no data on the columns that you are drawing as the secondary y axis. Finally, you can draw the legend of the secondary y axis and adjust its position by calling `right_ax.legend`.
+We set the label and the limits on the secondary y axis. In case you are generating multiple plots, you would want to check if `right_ax` is available before setting the label or the limits. This is possible if a plot has no data on the columns that you are drawing as the secondary y axis. Finally, you can draw the legend of the secondary y axis and adjust its position by calling `right_ax.legend`.
 
 Here is the output of the resulting plot.
 
-![Example:secondary_y drawn](/images/posts/secondary_y_3.png)
+<div align="center"><img src="/images/posts/secondary_y_3.png"></div>
+
+The plots on this post are made with Jupyter notebook. The code is available [here](/notebook/drawing_secondary_y_axis.ipynb)
 
 - - -
