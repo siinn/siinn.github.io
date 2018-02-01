@@ -2,7 +2,7 @@
 layout: post
 title: "Pandas: drawing secondary y axis with MultiIndex columns"
 date: 2017-08-07
-categories: python
+categories: Python
 ---
 
 When creating visualization with pandas, drawing secondary y axis seems trivial. According to the [official document](https://pandas.pydata.org/pandas-docs/stable/visualization.html), you can simply specifiy `secondary_y` option as below.
@@ -104,4 +104,3 @@ Here is the output of the resulting plot.
 
 The plots on this post are made with Jupyter notebook. The code is available [here](/notebook/drawing_secondary_y_axis.ipynb)
 
-- - -
