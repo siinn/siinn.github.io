@@ -25,7 +25,7 @@ Although I really enjoyed my life as a physicist, I am preparing a transition fr
 <tr>
 <td width="50%">
 <h2>Background</h2>
-I received a Bachelor's degree in Mathematics and Physics at the <a href="http://berkeley.edu">University of California, Berkeley</a>. I am on my last year of the Ph.D. in Experimental Particle Physics at <a href="http://www.osu.edu">the Ohio State University</a>.
+I received a Bachelor's degree in Mathematics and Physics at the <a href="http://berkeley.edu">University of California, Berkeley</a>. I am in my last year of the Ph.D. in Experimental Particle Physics at <a href="http://www.osu.edu">the Ohio State University</a>.
 </td>
 
 <td width="50%">
