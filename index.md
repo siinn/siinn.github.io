@@ -54,7 +54,9 @@ I am also actively involved in software development to improve efficiencies of d
 <h2>Transition to Data Science</h2>
 
 
-I started preparing for the transition to data science little more than a year ago. I have learned core concepts of data science including building predictive models using machine learning and data interpretation with statistical method. I found that many aspects of data science such as data mining, processing, and analyzing are very similar to physics analyses. I also worked on a few <a href="{{site.url}}/projects.html">data science projects</a> for better understanding of the concepts and gaining work experience.
+I started preparing for the transition to data science little more than a year ago. I have learned core concepts of data science including data mining/cleaning, building predictive models using machine learning, and data interpretation with statistical method.
+<br>
+I found many aspects of data science such as data mining, processing, and analyzing to be very similar to data analysis in physics research. I also worked on <a href="{{site.url}}/projects.html">data science projects</a> for better understanding of the concepts and work experience.
 </div>
 
 
@@ -66,7 +68,7 @@ I started preparing for the transition to data science little more than a year a
 
 <div class="card_wide" align="center">
 <h2>Skill Sets</h2>
-I am experienced with useful <b>Python</b> libraries:
+I am experienced with <b>Python</b> and the libraries:
 
 <br>
 <b>pandas</b>, <b>numpy</b> for data processing

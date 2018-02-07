@@ -31,7 +31,7 @@ You can reach me anytime via email, twitter, or any other method listed below. F
 <br>
 
 
-<boxed_big>Read Resume </boxed_big>
+<a href="/pdf/resume.pdf"><boxed_big>Read Resume </boxed_big></a>
 
 </div>
 
