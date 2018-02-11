@@ -22,7 +22,7 @@ The proejcts are presented in the form of description page (markdown) and source
 
 <div class="card" align="center">
 <div class="m1">NYC Rent Prediction</div>
-<div class="m2">So expensive, Why?</div>
+<div class="m2">Decision Tree Regression</div>
 
 Regression models are built for apartment rent in NYC using <b>RandomForest</b> and <b>GradientBoosting</b> regression. Two regression models are compared using statistical method. The dataset is collected by <b>web scraping</b> and cleaned using Pandas. Exploratory analysis is presented using Seaborn.
 <br><br>
@@ -39,6 +39,37 @@ Regression models are built for apartment rent in NYC using <b>RandomForest</b> 
 
 
 
+
+<br>
+<div class="card" align="center">
+    <div style="font-size:25px;font-weight:600;margin:10px 0px 10px 0px">
+    .<span style="margin-left:0.8em"></span>.<span style="margin-left:0.8em"></span>.
+    </div>
+</div>
+
+
+<div class="card" align="center">
+<div class="m1">Natural Language Processing</div>
+<div class="m2">Spam Classification</div>
+
+Yelp reviews are classified into star ratings based on the text contents of reviews. A <b>Naive Bayes</b> classification model is built using <b>CountVectorizer</b>, <b>TF-IDF transformer</b>, and sklearn <b>Pipeline</b>, and the performance of the model is evaluated using confusion matrix and classification report.
+<br><br>
+
+<a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/NaturalLanguageProcessing/notebook/Natural%20Language%20Processing.ipynb">
+<img src="/images/projects/nlp/texts.png" width="80%" style="border:0px solid #C0C0C0;border-radius:5px">
+</a>
+<div style="font-style:italic;font-size:12px;line-height:0;color:#5E5E5E">Text contents of reviews and average vote for each star rating.</div>
+
+<br>
+<boxed_big><a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/NaturalLanguageProcessing/notebook/Natural%20Language%20Processing.ipynb">GITHUB</a></boxed_big>
+</div>
+
+
+
+
+
+
+
 <br>
 <div class="card" align="center">
     <div style="font-size:25px;font-weight:600;margin:10px 0px 10px 0px">
@@ -49,7 +80,7 @@ Regression models are built for apartment rent in NYC using <b>RandomForest</b> 
 
 <div class="card" align="center">
 <div class="m1">Recognizing Hand-written Digits</div>
-<div class="m2">Can you guess these numbers?</div>
+<div class="m2">Unsupervised Clustering</div>
 
 Images of hand-written digits are analyzed and classified. <b>Principal component analysis (PCA)</b> is performed on the images using Scikit-learn, as a feature reduction method. An unsupervised learning is performed using <b>K-Mean clustering</b> algorithm to classify the images into 10 categories, representing digits 0-9.
 <br><br>
@@ -62,5 +93,4 @@ Images of hand-written digits are analyzed and classified. <b>Principal componen
 <br>
 <boxed_big><a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/DigitRecognizer/notebook/Principal%20Component%20Analysis.ipynb">GITHUB</a></boxed_big>
 </div>
-
 
