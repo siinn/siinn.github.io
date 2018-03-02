@@ -3,10 +3,11 @@ layout: default
 ---
 ## Recent posts
 - - -
-### Python for Data Science
+
+### Machine learning
 <ul>
 {% for post in site.posts %}
-	{% if post.categories contains 'Python'%}
+	{% if post.categories contains 'MachineLearning'%}
 		<li>
 		<a href="{{ post.url }}">{{ post.title }}</a> <tab></tab>{{ post.date | date: "%b %d, %Y"}}
 		<br>
@@ -16,12 +17,13 @@ layout: default
 	{% endif %}
 {% endfor %}
 </ul>
+
 - - -
 
-### Machine learning
+### Python for Data Science
 <ul>
 {% for post in site.posts %}
-	{% if post.categories contains 'MachineLearning'%}
+	{% if post.categories contains 'Python'%}
 		<li>
 		<a href="{{ post.url }}">{{ post.title }}</a> <tab></tab>{{ post.date | date: "%b %d, %Y"}}
 		<br>
