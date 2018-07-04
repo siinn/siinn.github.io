@@ -35,8 +35,6 @@ The following information is collected with time range between 2012 and present.
 
 
 ## Exploratory anlaysis
-Jupyter notebook for this section is available in <boxed><a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/NYC-Rental-Prediction/notebook/data_visualization.ipynb">VISUALIZATION</a></boxed>.
-
 In this section, a quick exploratory analysis is performed in order to understand different features collected in the previous section.
 
 ### Number of articles
