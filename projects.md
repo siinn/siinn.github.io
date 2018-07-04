@@ -4,11 +4,11 @@ title: Data Science Projects
 ---
 # Data Science Projects
 
-Data science projects that I have completed for self-learning purpose. The projects are chosen to cover the important concepts of data science, including data collection, data cleaning, visualization, machine learning, and statistical method.
+Independent Data science projects completed for self-learning purpose. The projects cover important concepts of data science, including data collection, data cleaning, visualization, machine learning, and statistical method.
 
-Technical tools such as <verbatim>Python</verbatim> libraries (<b>Pandas, Scikit-learn, Seaborn</b>) are used in these projects.
+Python libraries (<b>Pandas, Scikit-learn, Seaborn</b>) are used in these projects.
 
-The proejcts are presented in the form of description page (markdown) and source codes, available as Jupyter iPython notebook on <a href="https://github.com/siinn/Data-Science-Portfolio">Github</a>.
+The proejcts are presented in the form of description page (Markdown) and source codes, available as Jupyter iPython notebook on <a href="https://github.com/siinn/Data-Science-Portfolio">Github</a>.
 <br>
 <br>
 
@@ -49,8 +49,8 @@ Regression models are built for apartment rent in NYC using <b>RandomForest</b> 
 
 
 <div class="card" align="center">
-<div class="m1">Natural Language Processing</div>
-<div class="m2">Spam Classification</div>
+<div class="m1">Review Classification</div>
+<div class="m2">NLP and Classification</div>
 
 Yelp reviews are classified into star ratings based on the text contents of reviews. A <b>Naive Bayes</b> classification model is built using <b>CountVectorizer</b>, <b>TF-IDF transformer</b>, and sklearn <b>Pipeline</b>, and the performance of the model is evaluated using confusion matrix and classification report.
 <br><br>

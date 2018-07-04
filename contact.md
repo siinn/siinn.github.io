@@ -9,13 +9,13 @@ layout: default
 
 
 <div class="m1">Thanks!</div>
-<div class="m2">and see you again.</div>
+<div class="m2">for reaching out.</div>
 <br>
-You can reach me anytime via email, twitter, or any other method listed below. Feel free to take a look at my resume as well.
+You can contact me via email, twitter, or any other method listed below. Please feel free to check out my resume.
 <br>
 <br>
 
-<b>Address: </b> 191 W. Woodruff Ave. Columbus, OH
+<b>Address: </b> 225 E. 17th St, New York, NY
 <br>
 
 <b>Email: </b> <a href="mailto:siin.che@gmail.com"> siinn.che@gmail.com</a>
@@ -31,7 +31,7 @@ You can reach me anytime via email, twitter, or any other method listed below. F
 <br>
 
 
-<a href="/pdf/resume.pdf"><boxed_big>Read Resume </boxed_big></a>
+<a href="/pdf/resume.pdf"><boxed_big>Resume </boxed_big></a>
 
 </div>
 
