@@ -32,7 +32,7 @@ I received my Ph.D. in experimental particle physics at <a href="http://www.osu.
 
 I have several years of work experience in research, data analysis, and software development at government labs, <a href="http://www.lbl.gov/">Lawrence Berkeley National Laboratory</a> and <a href="http://cern.ch">CERN</a>.
 <br>
-I have many years of experience in working with distributed system, <a href="http://wlcg.web.cern.ch">Grid</a>, and I am also actively involved in software development to improve efficiencies of data processing algorithms.
+I have many years of experience in working with distributed system, <a href="http://wlcg.web.cern.ch">Grid</a>, and I was also actively involved in software development to improve efficiencies of data processing algorithms.
 
 </td>
 </tr>

@@ -21,6 +21,31 @@ The proejcts are presented in the form of description page (Markdown) and source
 
 
 <div class="card" align="center">
+<div class="m1">Warm Welcome</div>
+<div class="m2">Improved Recommender System for Medium</div>
+Built an improved collaborative filtering for new users on Medium by engineering new user features using <b>LightFM</b> model. User features are extracted from user profiles using <b>tokenizer NLTK</b> and <b>Rake NLTK</b>. Data is collected frmo Medium by web scraping using Python. Web application is built using Python, Flask, Dash and hosted on AWS.
+<br><br>
+
+<a href="{{site.url}}/projects/medium.html">
+<img src="/images/projects/medium/results.png" width="100%" style="border:1px solid #C0C0C0;border-radius:5px">
+</a>
+<div style="font-style:italic;font-size:12px;line-height:0;color:#5E5E5E">Precision and Recall at 10 of the collaborative filtering models</div>
+
+<br>
+<boxed_big><a href="{{site.url}}/projects/medium.html">DESCRIPTION</a></boxed_big>
+<boxed_big><a href="https://github.com/siinn/InsightProject">GITHUB</a></boxed_big>
+</div>
+
+
+
+<div class="card" align="center">
+    <div style="font-size:25px;font-weight:600;margin:10px 0px 10px 0px">
+    .<span style="margin-left:0.8em"></span>.<span style="margin-left:0.8em"></span>.
+    </div>
+</div>
+
+
+<div class="card" align="center">
 <div class="m1">NYC Rent Prediction</div>
 <div class="m2">Decision Tree Regression</div>
 
