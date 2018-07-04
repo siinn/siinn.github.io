@@ -761,7 +761,7 @@ Jupyter notebook for this section is available in <boxed><a href="https://github
 In this section, an exploratory analysis is performed in order to understand different features collected in the previous section. Also, correlation between features are explored to avoid any collinearity when building regression models.
 
 ### Number of bedrooms
-First, number of bedrooms in apartments are plotted. The plots are separated into each borough. The plots are made with <verbatim>countplot</verbatim> from <b>Seaborn</b> library. It can be seen that 1 bedroom apartment is the most common type of apartment in Manhattan and Bronx, and other boroughs tend to have more bedrooms. The plot is not normalized.
+First, number of bedrooms in apartments is plotted. The plots are separated into each borough. The plots are made with <verbatim>countplot</verbatim> from <b>Seaborn</b> library. It can be seen that 1 bedroom apartment is the most common type of apartment in Manhattan and Bronx, and other boroughs tend to have more bedrooms. The plot is not normalized.
 <br><br>
 <div align="center"><img src="/images/projects/nyc/visualization_1.png" width="500px"></div>
 
