@@ -47,7 +47,7 @@ I have many years of experience in working with distributed system, <a href="htt
 
 
 <div class="card_wide" align="center">
-<h2>Skill Sets</h2>
+<h2>Skills</h2>
 I am experienced with <b>Python</b> and the libraries:
 
 <br>
