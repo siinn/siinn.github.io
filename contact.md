@@ -6,21 +6,14 @@ layout: default
 <div class="m2">for reaching out.</div>
 -->
 
-<br>
+<h3>Current work</h3>
 You can contact me via
-<br>
-<br>
 
 <b>Email: </b> <a href="mailto:siin.che@gmail.com"> siinn.che@gmail.com</a>
-<br>
-
 <b>LinkedIn: </b>
 <a href="https://www.linkedin.com/in/siinn-che/">https://www.linkedin.com/in/siinn-che/</a>
-<br>
-
 <b>Github: </b>
 <a href="https://github.com/siinn">https://github.com/siinn</a>
-<br>
 
 <!--
 <a href="/pdf/resume.pdf"><boxed_big>Resume </boxed_big></a>
