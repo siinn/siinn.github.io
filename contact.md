@@ -3,7 +3,7 @@ layout: default
 ---
 <br>
 <br>
-<div class="card" align="center">
+<div class="card" align="left">
 <!--
 <div class="m1">Thanks!</div>
 <div class="m2">for reaching out.</div>
@@ -27,10 +27,9 @@ You can contact me via
 
 <!!--
 <a href="/pdf/resume.pdf"><boxed_big>Resume </boxed_big></a>
--->
-
 </div>
 <div class="card" align="center">
 <br><div style="font-size:25px;font-weight:600;margin:10px 0px 10px 0px">
 .<span style="margin-left:0.8em"></span>.<span style="margin-left:0.8em"></span>.</div>
 </div>
+-->
