@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-## Recent books
+### Recent books
 - - -
-## Machine learning
+### Machine learning
 <ul>
 {% for post in site.posts %}
     {% if post.categories contains 'MachineLearning'%}
