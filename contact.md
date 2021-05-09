@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<br>
-<br>
 <div class="card" align="left">
 <!--
 <div class="m1">Thanks!</div>
@@ -25,7 +23,7 @@ You can contact me via
 <a href="https://github.com/siinn">https://github.com/siinn</a>
 <br>
 
-<!!--
+<!--
 <a href="/pdf/resume.pdf"><boxed_big>Resume </boxed_big></a>
 </div>
 <div class="card" align="center">

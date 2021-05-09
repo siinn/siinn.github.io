@@ -4,7 +4,6 @@ layout: default
 ## Recent books
 - - -
 
-### Machine learning
 <ul>
 {% for book in site.books %}
 	{% if book.categories contains 'MachineLearning'%}
