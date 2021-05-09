@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
+![Siinn Che](/images/siinn3.jpg)
 
 # Siinn Che
 

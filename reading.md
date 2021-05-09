@@ -7,7 +7,7 @@ Test 1
 <ul>
 {% for book in site.books %}
     Test 2
-    {% if book.categories contains 'Books'%}
+    {% if book.categories contains 'posts'%}
         <li>
         <a href="{{ book.url }}">{{ book.title }}</a> <tab></tab>{{ book.date | date: "%b %d, %Y"}}
         <br>
