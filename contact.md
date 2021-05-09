@@ -9,11 +9,9 @@ layout: default
 <h3>Current work</h3>
 You can contact me via
 
-<b>Email: </b> <a href="mailto:siin.che@gmail.com"> siinn.che@gmail.com</a>
-<b>LinkedIn: </b>
-<a href="https://www.linkedin.com/in/siinn-che/">https://www.linkedin.com/in/siinn-che/</a>
-<b>Github: </b>
-<a href="https://github.com/siinn">https://github.com/siinn</a>
+- Email: <a href="mailto:siin.che@gmail.com"> siinn.che@gmail.com</a>
+- Github: <a href="https://github.com/siinn">https://github.com/siinn</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/siinn-che/">https://www.linkedin.com/in/siinn-che/</a>
 
 <!--
 <a href="/pdf/resume.pdf"><boxed_big>Resume </boxed_big></a>
