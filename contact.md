@@ -3,19 +3,15 @@ layout: default
 ---
 <br>
 <br>
-
-
 <div class="card" align="center">
-
-
+<!--
 <div class="m1">Thanks!</div>
 <div class="m2">for reaching out.</div>
-<br>
-You can contact me via email, twitter, or any other method listed below. Please feel free to check out my resume.
-<br>
-<br>
+-->
 
-<b>Address: </b> 225 E. 17th St, New York, NY
+<br>
+You can contact me via
+<br>
 <br>
 
 <b>Email: </b> <a href="mailto:siin.che@gmail.com"> siinn.che@gmail.com</a>
@@ -28,15 +24,12 @@ You can contact me via email, twitter, or any other method listed below. Please 
 <b>Github: </b>
 <a href="https://github.com/siinn">https://github.com/siinn</a>
 <br>
-<br>
 
-
+<!!--
 <a href="/pdf/resume.pdf"><boxed_big>Resume </boxed_big></a>
+-->
 
 </div>
-
-
-
 <div class="card" align="center">
 <br><div style="font-size:25px;font-weight:600;margin:10px 0px 10px 0px">
 .<span style="margin-left:0.8em"></span>.<span style="margin-left:0.8em"></span>.</div>
