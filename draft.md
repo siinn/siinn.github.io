@@ -1,9 +1,7 @@
 ---
 layout: default
+title: About
 ---
-<div class="card" align="center">
-<br>
-<img src="/images/siinn3.jpg" width="130" height="140" style='border:0px solid #222;border-radius:1000px'>
 
 # Siinn Che
 
