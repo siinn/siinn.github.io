@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<div class="card" align="left">
 <!--
 <div class="m1">Thanks!</div>
 <div class="m2">for reaching out.</div>
