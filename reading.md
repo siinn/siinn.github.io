@@ -25,7 +25,7 @@ any way.
         <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
         by {{post.author}}
         <br>
-        Date: {{ post.date | date: "%b %d, %Y"}}
+        Date: <blue>{{ post.date | date: "%b, %Y"}}</blue>
         <br>
         {{ post.excerpt| strip_html }}
         </td>

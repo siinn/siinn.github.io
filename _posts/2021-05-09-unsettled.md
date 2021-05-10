@@ -2,7 +2,7 @@
 layout: default
 title: "Unsettled: What Climate Science Tells Us, What It Doesn’t, and Why It Matters"
 author: Steven E. Koonin
-date: 2018-03-01
+date: 2021-05-09
 categories: ClimateChange
 cover: /images/books/unsettled.jpg
 ---
