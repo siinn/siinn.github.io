@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Prediction interval in regression model"
+layout: default
+title: "Unsettled: What Climate Science Tells Us, What It Doesn’t, and Why It Matters"
+author: Steven E. Koonin
 date: 2018-03-01
-categories: MachineLearning
+categories: ClimateChange
+cover: /images/books/unsettled.jpg
 ---
 ## Introduction
 One of the important concepts in building the regression model is a *prediction interval*. Often the prediction interval is confused with a similar concept, a *confidence interval*. 
